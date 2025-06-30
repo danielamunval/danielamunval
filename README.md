@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNkYTVxZ3I4czk4cXpma3F4aWtiamJzYzZvY2Jyc3Vma3JvaW1qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="gif" />
+</p>
 ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNkYTVxZ3I4czk4cXpma3F4aWtiamJzYzZvY2Jyc3Vma3JvaW1qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 # ¡Hola! Soy Dani 🌻👋
@@ -19,19 +21,14 @@ Estoy en constante aprendizaje y abierta a colaborar en proyectos donde pueda se
 
 💡 Mis intereses actuales:
 
-Desarrollo web con Java y Spring Boot 
+* Desarrollo web con Java y Spring Boot 
+* Frontend con HTML, CSS y JavaScript
+* Automatización de procesos
+* Proyectos con impacto social o en el área de la salud.
+* Ciberseguridad 👩‍💻
 
-Frontend con HTML, CSS y JavaScript
-
-Automatización de procesos
-
-Proyectos con impacto social o en el área de la salud.
-
-Ciberseguridad 👩‍💻
-
-
+__________________
 ⚡️ Dato curioso
-
 Soy cirujana dentista de formación 🦷, y actualmente estoy aprendiendo del mundo de la tecnología, en pleno proceso de reconversión profesional. 
 
  
