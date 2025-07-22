@@ -6,9 +6,9 @@
 
 
 ## Sobre Mi 👩🏻‍💻
-Me motivan los desafíos, aprender cosas nuevas y encontrar formas de optimizar procesos a través de la tecnología. 
+Me motivan los nuevos desafíos, aprender cosas nuevas y encontrar formas de optimizar procesos a través de la tecnología. 
 
-Disfruto conectar ideas y herramientas para dar vida a soluciones útiles. Me encanta encontrar formas de conectar ideas y transformar necesidades en soluciones funcionales. 
+Disfruto conectar ideas y herramientas para dar vida a soluciones útiles. Me gusta encontrar formas de conectar ideas y transformar necesidades en soluciones funcionales. 
 
 Estoy especialmente interesada en combinar mi experiencia en el área de la salud con el desarrollo web, buscando aportar desde una mirada integral e innovadora.
 
@@ -33,10 +33,10 @@ Soy cirujana dentista de formación 🦷, y actualmente estoy aprendiendo del mu
 
  
 ## 🛠 Skills
-Java — Git — GitBash — metodología SCRUM.
+Java — HTML — CSS — JavaScript — Git — GitBash — metodología SCRUM.
 
 🚀 Prontamente: 
-SQL, Springboot, JavaScript, HTML, CSS, React.
+MySQL, Springboot, React.
 ¡Y mucho más!  
 
 
